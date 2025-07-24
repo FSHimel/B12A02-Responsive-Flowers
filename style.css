@@ -1,0 +1,13 @@
+
+.noto-serif{
+    font-family: "Noto Serif", serif;
+}
+.inter{
+    font-family: "Inter", sans-serif;
+}
+.orange{
+    color: rgb(233, 90, 8);
+}
+.subtitle{
+    color: rgba(0, 0, 0, 50%);
+}
